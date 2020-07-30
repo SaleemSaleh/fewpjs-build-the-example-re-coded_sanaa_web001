@@ -62,5 +62,6 @@ article.media-post > footer ul {
 }
 
 .hidden {
+  display:  none;
   visibility: hidden;
 }
