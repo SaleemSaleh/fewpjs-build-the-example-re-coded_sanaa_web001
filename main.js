@@ -6,7 +6,7 @@ const FULL_HEART = '♥'
 document.addEventListener("DOMContentLoaded", function() {
   let err = document.getElementById('modal') ;
   err.classList.add("hidden");
-  err.classList.add("modal");
+
 });
 
 
